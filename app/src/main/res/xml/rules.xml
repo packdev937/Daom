@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 변수 명
+        Java 파일 : m + (View) + (Function) ex) mBtnComplete
+        xml 파일 : (View) + (XML FILE) + (Function) ex) btn_register_complete
+        image 파일 : icon = ic, image file = img, background = bg
+
+        EditText = et, TextView = tv, Button = btn, Imageview = imgv
+        -->
+
+</PreferenceScreen>

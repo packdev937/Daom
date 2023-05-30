@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">daom</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_group">나의 그룹들</string>
+    <string name="group_not_exist">현재 그룹이 존재하지 않습니다.\n우측 상단 버튼을 통해 그룹을 추가해주세요!</string>
+    <string name="format_symbol_click">%1$s\n(%2$.5f, %3$.5f)</string>
+</resources>

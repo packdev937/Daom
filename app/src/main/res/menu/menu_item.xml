@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_lobby"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="내 약속" />
+    <item
+        android:id="@+id/item_invite"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_add_circle_24"
+        android:title="추가하기" />
+    <item
+        android:id="@+id/item_join"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_add_link_24"
+        android:title="참가하기" />
+    <item
+        android:id="@+id/item_account"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="내 정보" />
+</menu>
